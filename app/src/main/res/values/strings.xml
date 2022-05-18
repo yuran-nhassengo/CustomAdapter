@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string-array name="titles">
+        <item>Meme 1</item>
+        <item>Meme 2</item>
+        <item>Meme 3</item>
+        <item>Meme 4</item>
+        <item>Meme 5</item>
+        <item>Meme 6</item>
+        <item>Meme 7</item>
+        <item>Meme 8</item>
+        <item>Meme 9</item>
+        <item>Meme 10</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>This is a descripions 1</item>
+        <item>This is a descripions  2</item>
+        <item>This is a descripions  3</item>
+        <item>This is a descripions  4</item>
+        <item>This is a descripions  5</item>
+        <item>This is a descripions  6</item>
+        <item>This is a descripions  7</item>
+        <item>This is a descripions  8</item>
+        <item>This is a descripions  9</item>
+        <item>This is a descripions  10</item>
+    </string-array>
+</resources>
